@@ -11,7 +11,7 @@ Problem Statement:
 4. Show customer's sales value change from previous their order.
 5. Show Office sales by customer country.
 6. Show customers affected by late shipping.
-7. Give breakdown of customers who go over their credit limits.
+7. Give a breakdown of customers who go over their credit limits.
 
 For this project I wanted to get some more numerical data using a relational database with multiple tables. This will allow me to showcase some different analytical skills by using:
 
