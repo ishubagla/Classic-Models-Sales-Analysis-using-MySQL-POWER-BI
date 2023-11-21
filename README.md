@@ -24,5 +24,18 @@ I've decided to start with SQL, so I've imported the data into MySQL workbench.
 
 I've also downloaded the Sample Database's Diagram that shows the relationships between the tables. This way I can easily find the primary and foreign keys that I can use to connect two separate tables when performing joins.
 ![image](https://github.com/ishubagla/Classic-Models-Sales-Analysis-using-MySQL-POWER-BI/assets/151032838/98b37333-29e3-4722-860a-2b65f83d2a12)
+I have shown the execution of each problem statement in separate SQL files.
 
+MS EXCEL
+After running the SQL files i have copied the output tables from each QUERY to my excel spreadsheet and created pivot tables out of them.
+
+Power BI
+The last part of my project contains visualization of the sales analysis. For this I've imported Classic Models data from MySQL to Power BI. Ibhave build visuals showing Classic Model sales dashboard of tables present in the dataset. I have also added two buttons to navigate between two pages and between sales & net profit.
+
+Conclusion
+Thank you.
+This was my first try using SQL for data analysis. Looking at the dataset again, I believe there’s a lot more exploration that can be done and more insight that can be gotten which I intend to do to hone my data analytics skills. However, here an insight from this analysis.
+
+In both years when the company operated full through out the year, the month of November had the highest sales. This may be due to the approaching holiday season. Studies have found that customers are more likely to make purchases towards the end of the year.
+ 
 
